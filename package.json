@@ -1,5 +1,6 @@
 {
   "name": "white-limit-61f7",
+  "version": "0.0.1",
   "description": "Build a full-stack web application with Next.js.",
   "cloudflare": {
     "label": "Next.js Framework Starter",
